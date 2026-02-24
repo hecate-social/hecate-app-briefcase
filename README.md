@@ -1,2 +1,2 @@
-# Hecate Utils
-`hecate_utils` is a library of Erlang functions that should make life easier for Hecate Application Developers
+# Hecate Briefcase
+`Hecate Briefcase` is a Hecate Plugin/Application, that allows users to share documents with other users in the mesh, within certain constraints
